@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,500,600,600i,700,700i&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+/*font-family: 'Playfair Display', serif;*/
+header{
+    width: 95%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.logo{
+    width: 20%;
+    float: left;
+
+}
+.manu{
+    width: 50%;
+    float: right;
+
+}
+.manu ul{
+    list-style: none;
+    float: right;
+}
+.manu ul li{
+    float: left;
+
+}
+.manu ul li a{
+    color: #626262;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.banner img{
+    width:100% ;
+}
+.banner{
+    width: 95%;
+    margin: auto;
+}
+.contant{
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}
+.contant span{
+    font-size: 16px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    display: block;
+}
+.contant h1{
+    color:#626262 ;
+    font-size: 40px;
+    margin-bottom: 30px;
+
+}
+.contant p{
+    color:#626262 ;
+    line-height: 1.5;
+    text-align: left;
+    margin-bottom: 20px;
+
+}
+.top-items{
+    width: 80%;
+    margin: auto;
+    margin-top: 70px;
+    
+
+}
+.one{
+    float: left;
+    width: 65%;
+    overflow: hidden;
+    margin: auto;
+
+}
+.one p{
+    width: 35%;
+    color:#626262 ;
+    line-height: 1.5;
+    text-align: left;
+    height: 300px;
+
+}
+.one span{
+    display: block;
+    font-size: 16px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+
+}
+.one img{
+    width: 35%;
+    margin-bottom: 20px;
+}
+
+.two{
+    float: right;
+    width: 65%;
+    margin: auto;
+   
+}
+.two p{
+    width: 35%;
+    color:#626262 ;
+    line-height: 1.5;
+    text-align: left;
+    height: 300px;
+
+}
+.two span{
+    display: block;
+    font-size: 16px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+
+}
+
+.two img{
+    width: 35%;
+    margin-bottom: 20px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
